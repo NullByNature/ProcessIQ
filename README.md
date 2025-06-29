@@ -7,15 +7,7 @@ a lightweight C# application designed to give users command-line-style insight a
 - ✅ Find processes by **name**  
 - ✅ Find processes by **ID**  
 - ✅ Kill processes by **ID**
-
----
-
-## 🚧 Planned Features
-
-- ⏸️ Pause/suspend a running process  
-- ▶️ Resume a paused process  
-- 🚫 Block or restrict a process from launching  
-
+- 
 ---
 
 ## 📦 Technologies Used
